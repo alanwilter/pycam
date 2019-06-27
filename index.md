@@ -1,7 +1,7 @@
 This page provides information and links to these two Python courses:
 
-- **[Introduction to solving biological problems with Python](https://github.com/alanwilter/pycam/python-basic)**; and
-- **[Data science in Python](https://github.com/alanwilter/pycam/python-data-science)**
+- **[Introduction to solving biological problems with Python](https://github.com/alanwilter/python-basic)**; and
+- **[Data science in Python](https://github.com/alanwilter/python-data-science)**
 
 run by the [Graduate School of Life Sciences](http://www.training.cam.ac.uk/) of the University of Cambridge, UK.
 
@@ -13,13 +13,13 @@ Since February 2017, the original two days course, taught over many years (on Gi
 - **Data science in Python**: This course covers *concepts and strategies for working more effectively with Python* with the aim of writing reusable code. We will be using Python libraries to explore data in files, creating functions and modules to write reusable code, manipulating data using Pandas, visualising data with Matplotlib and working with biological data using BioPython.
 
 ### Course materials
-The course materials are available as [Jupyter notebook](http://jupyter.org/) files, one for each session of the course. Jupyter notebooks allow you to interactively run python code in your browser and if you [install Jupyter](https://jupyter.readthedocs.io/en/latest/install.html) on your own machine, you can then run the notebooks and experiment with the example code. A quick installation guide is also available in our introductory course repository on GitHub in the [README.md file](https://github.com/alanwilter/pycam/python-basic/blob/master/README.md).
+The course materials are available as [Jupyter notebook](http://jupyter.org/) files, one for each session of the course. Jupyter notebooks allow you to interactively run python code in your browser and if you [install Jupyter](https://jupyter.readthedocs.io/en/latest/install.html) on your own machine, you can then run the notebooks and experiment with the example code. A quick installation guide is also available in our introductory course repository on GitHub in the [README.md file](https://github.com/alanwilter/python-basic/blob/master/README.md).
 
 The notebook and example data files as well as scripts used in both courses are available to download from our course's repositories:
 
-- [python-basic course repo](https://github.com/alanwilter/pycam/python-basic) for _'Introduction to solving biological problems with Python'_ course
+- [python-basic course repo](https://github.com/alanwilter/python-basic) for _'Introduction to solving biological problems with Python'_ course
 
-- [python-data-science course repo](https://github.com/alanwilter/pycam/python-data-science) for _'Data science in Python'_ course
+- [python-data-science course repo](https://github.com/alanwilter/python-data-science) for _'Data science in Python'_ course
 
 Static renderings of the notebooks (that do not support interactively running the examples)
 are also available (using the [Jupyter notebook viewer](http://nbviewer.jupyter.org/)) as a service from GitHub.
@@ -32,11 +32,11 @@ Web-based collaborative editor is used during some courses, allowing everyone to
 ### Course schedule
 
 - **Introduction to solving biological problems with Python**
-  - [Day 1 - Introduction: objectives and course schedule](https://github.com/alanwilter/pycam/python-basic/blob/master/python_basic_1_intro.ipynb)
-  - [Day 2 - Introduction: objectives and course schedule](https://github.com/alanwilter/pycam/python-basic/blob/master/python_basic_2_intro.ipynb)
+  - [Day 1 - Introduction: objectives and course schedule](https://github.com/alanwilter/python-basic/blob/master/python_basic_1_intro.ipynb)
+  - [Day 2 - Introduction: objectives and course schedule](https://github.com/alanwilter/python-basic/blob/master/python_basic_2_intro.ipynb)
 - **Data science in Python**
-  - [Day 1 - Aims, objectives and course schedule](https://github.com/alanwilter/pycam/python-data-science/blob/master/10_python_data_intro.ipynb)
-  - [Day 2 - Aims, objectives and course schedule](https://github.com/alanwilter/pycam/python-data-science/blob/master/20_python_data_intro.ipynb)
+  - [Day 1 - Aims, objectives and course schedule](https://github.com/alanwilter/python-data-science/blob/master/10_python_data_intro.ipynb)
+  - [Day 2 - Aims, objectives and course schedule](https://github.com/alanwilter/python-data-science/blob/master/20_python_data_intro.ipynb)
 
 ### Course objectives
 - **Introduction to solving biological problems with Python**
